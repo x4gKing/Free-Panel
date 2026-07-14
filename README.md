@@ -1,41 +1,60 @@
 <div align="center">
 
-# 🛡️ x4gKing — Repositories
+# ⚡ X4GHUB
 
-مجموعه‌ای از پنل‌ها، نودها و ابزارهای مدیریت پروکسی و VPN
+### پنل حرفه‌ای ساخت و مدیریت کانفیگ
+
+یک پنل تحت وب، سبک و کاملاً رایگان — بدون نیاز به نصب یا سرور جداگانه، فقط با یک فایل HTML.
+
+[![Telegram](https://img.shields.io/badge/Telegram-X4GHUB-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/X4GHUB)
+[![YouTube](https://img.shields.io/badge/YouTube-X4GHUB-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@X4GHUB)
+
+### 🌐 [مشاهده دمو زنده پنل](https://x4gking.github.io/Free-Panel/)
 
 </div>
 
 ---
 
-## 📡 پنل‌ها (Panels)
+## 📌 درباره پروژه
 
-| نام | توضیح | لینک |
-|---|---|---|
-| **X4G Panel** | پنل مدیریت X4G | [x4gKing/X4G](https://github.com/x4gKing/X4G) |
-| **PasarGuard** | پنل مدیریت پاسارگارد | [x4gKing/PasarGuard](https://github.com/x4gKing/PasarGuard) |
-| **Marzban Panel** | پنل مدیریت مرزبان | [x4gKing/Marzban-Panel](https://github.com/x4gKing/Marzban-Panel) |
-| **Free Panel** | پنل رایگان | [x4gKing/Free-Panel](https://github.com/x4gKing/Free-Panel) |
+**X4GHUB** یه پنل مدیریت کانفیگ با ظاهر مدرن و کاربری آسونه. تمام امکانات ساخت، مدیریت و اشتراک‌گذاری کانفیگ‌ها داخل یک فایل قرار داره؛ کافیه فایل رو باز کنی و شروع کنی.
 
-## 🖥️ نودها (Nodes)
+## ✨ امکانات
 
-| نام | توضیح | لینک |
-|---|---|---|
-| **PasarGuard Node** | نود پاسارگارد | [x4gKing/PasarGuard-Node](https://github.com/x4gKing/PasarGuard-Node) |
-| **Marzban Node** | نود مرزبان | [x4gKing/Marzban-Node](https://github.com/x4gKing/Marzban-Node) |
+| ویژگی | توضیح |
+|---|---|
+| 🌍 چند لوکیشن | انتخاب سرور از کشورهای مختلف |
+| 🔐 رمزگذاری کانفیگ | محافظت هر کانفیگ با رمز اختصاصی |
+| 🔗 لینک سابسکریپشن | تولید خودکار لینک ساب برای هر کاربر |
+| 🖥️ مدیریت سرورها | مشاهده وضعیت فعال / منقضی هر کانفیگ |
+| 🎨 دارک/لایت‌مود | تغییر تم بین حالت تیره و روشن |
+| 🌐 دو زبانه | پشتیبانی کامل از فارسی و انگلیسی |
+| 📚 آموزش داخلی | راهنمای گام‌به‌گام داخل پنل |
 
-## ⚙️ ابزارها (Tools)
+## 🚀 شروع سریع
 
-| نام | توضیح | لینک |
-|---|---|---|
-| **3x-ui Upgrade** | نسخه‌ی آپدیت‌شده‌ی سنایی (3x-ui) | [x4gKing/3x-ui-Upgrade](https://github.com/x4gKing/3x-ui-Upgrade) |
-| **3x-ui** | نسخه‌ی قدیمی سنایی (3x-ui) | [x4gKing/3x-ui](https://github.com/x4gKing/3x-ui) |
-| **Amnezia VPN Config** | کانفیگ WireGuard | [x4gKing/Amnezia-VPN-Config](https://github.com/x4gKing/Amnezia-VPN-Config) |
+**ساده‌ترین راه:** مستقیم از دمو زنده استفاده کن → [x4gking.github.io/Free-Panel](https://x4gking.github.io/Free-Panel/)
 
----
+یا به‌صورت محلی:
+
+1. فایل `index.html` رو در مرورگر باز کن.
+2. رمز عبور پیش‌فرض ورود به پنل: **`X4GHUB`**
+3. از منو وارد بخش «ساخت کانفیگ» شو و تنظیمات دلخواهت رو انتخاب کن.
+4. کانفیگ و لینک سابسکریپشن ساخته می‌شه و آماده استفاده‌ست.
+
+## ⚠️ نکته مهم
+
+کانفیگ‌های این پنل فقط برای **استفاده شخصی** هستن؛ لطفاً فروش نکنید.
+
+## 💜 حمایت از ما
+
+اگه این پروژه به کارت اومد، از طریق لینک‌های زیر همراه ما باش:
+
+- 📢 **کانال تلگرام:** [telegram.me/X4GHUB](https://telegram.me/X4GHUB)
+- 📺 **یوتیوب:** [youtube.com/@X4GHUB](https://www.youtube.com/@X4GHUB)
 
 <div align="center">
 
-⭐️ اگه این پروژه‌ها به کارتون اومد، یه ستاره فراموش نشه!
+❤️ ساخته شده با عشق توسط تیم X4G
 
 </div>
