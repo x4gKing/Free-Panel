@@ -9,6 +9,8 @@
 [![Telegram](https://img.shields.io/badge/Telegram-X4GHUB-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/X4GHUB)
 [![YouTube](https://img.shields.io/badge/YouTube-X4GHUB-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@X4GHUB)
 
+### 🌐 [مشاهده دمو زنده پنل](https://x4gking.github.io/Free-Panel/)
+
 </div>
 
 ---
@@ -30,6 +32,10 @@
 | 📚 آموزش داخلی | راهنمای گام‌به‌گام داخل پنل |
 
 ## 🚀 شروع سریع
+
+**ساده‌ترین راه:** مستقیم از دمو زنده استفاده کن → [x4gking.github.io/Free-Panel](https://x4gking.github.io/Free-Panel/)
+
+یا به‌صورت محلی:
 
 1. فایل `index.html` رو در مرورگر باز کن.
 2. رمز عبور پیش‌فرض ورود به پنل: **`X4GHUB`**
